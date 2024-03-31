@@ -1,0 +1,6 @@
+.vscode
+*.a
+*.gc*
+*.o
+my_sokoban
+unit_tests
